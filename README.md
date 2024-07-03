@@ -1,4 +1,4 @@
-# Email_webcam_thieft_detection_app_using_Python
+# Webcam_Monitoring_Email_Alert_App_using_Python
 
 
 **Project Description: Webcam-based Person Detection and Email Alert System**
